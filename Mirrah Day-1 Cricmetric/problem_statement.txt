@@ -1,0 +1,31 @@
+In a cricket match, each batsman has a unique identifier, and their corresponding runs scored are stored in an array. Your task is to analyze the cricket match data and determine the following:
+
+1. The total runs scored by the team. 
+2. The batsman who scored the highest number of runs and their corresponding  unique identifier.
+
+
+Sample Input/Output
+   Input: 
+   5 
+   20 35 40 15 25
+
+   Output:
+   135 
+   2
+
+Explanation
+  
+     There are five batsmen in the match. Their runs are 20, 35, 40, 15, and 25. The total  runs scored by the team are 135. Batsman number 3 (index 2) scored the highest  number of runs, which is 40. 
+     
+   Input: 
+   10 
+   10 20 30 40 50 60 70 80 90 100 
+   
+   Output: 
+   550 
+   9
+
+Explanation
+  
+     There are ten batsmen in the match. Their runs are 10, 20, 30, 40, 50, 60, 70, 80,  90, and 100. The total runs scored by the team are 550. Batsman number 10 (index  9) scored the highest number of runs, which is 100. 
+     
