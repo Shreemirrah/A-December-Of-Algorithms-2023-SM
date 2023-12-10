@@ -1,0 +1,21 @@
+Problem Statement
+In the town of Willow, where everyone's computer password was part of their actual name.One day, a peculiar situation arose.
+A group of citizens found themselves unable to recall their passwords, but they had a single clue to aid them.
+By deciphering the clues, help the forgetful citizens to rediscover their passwords
+
+
+Sample Input/Output
+Input:  select substring(empname,4,13) from emp;
+
+Output:
+
+
+Sample Input/Output
+ Input:  select substring(empname,2,2) from emp;
+Output:
+
+
+Explanation
+- The SQL query SELECT SUBSTRING(empname, 2, 2) FROM emp; retrieves a substring from the "empname" column in the "emp" table for each row.
+- The SUBSTRING function is employed, specifying the starting position as the second character and extracting two characters.
+ 
